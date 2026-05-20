@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/(tenant)/register/page": "app/(tenant)/register/page.js",
+  "/(central)/admin/login/page": "app/(central)/admin/login/page.js",
+  "/(central)/admin/dashboard/page": "app/(central)/admin/dashboard/page.js",
+  "/(central)/admin/firms/page": "app/(central)/admin/firms/page.js",
+  "/(central)/admin/plans/page": "app/(central)/admin/plans/page.js",
+  "/(central)/admin/subscriptions/page": "app/(central)/admin/subscriptions/page.js"
+}
